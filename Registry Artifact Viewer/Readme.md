@@ -8,7 +8,7 @@ LIVE Windows forensics tool that reads, decodes, and displays **18 registry arti
 
 ## Features
 
-- **22 forensic artifact tabs** — registry + SRUM in one tool
+
 - **Live registry reads** from `HKCU` on startup — no file import needed
 - **SRUM parsing** via raw disk copy + ESE/JET API (requires Admin)
 - **Shellbag full decode** — folder names, shell type, MRU position, Created/Modified/Accessed timestamps
@@ -19,8 +19,7 @@ LIVE Windows forensics tool that reads, decodes, and displays **18 registry arti
 - **Column sort** — click any header
 - **Export** — CSV, HTML, XML per tab or all artifacts at once
 - **Copy** — Ctrl+C copies selected rows (tab-delimited, pastes into Excel)
-- **Column width persistence** across sessions (registry)
-- Pure Win32 — **no MFC required**, builds with any VS2022 Community install
+
 
 ---
 
